@@ -1,0 +1,31 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 247ab91..3aacc9c 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -5,8 +5,24 @@[m
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+   <meta http-equiv="X-UA-Compatible" content="ie=edge">[m
+   <title>un obra</title>[m
+[31m-</head>[m
+ <body>[m
+[31m-fheharty[m
+[32m+[m[32m<script type="text/javascript">[m
+[32m+[m
+[32m+[m
+[32m+[m[32mvar edad, fechaI,fechaA, calculoE;[m
+[32m+[m[32medad=19;[m
+[32m+[m[32mfechaA= 2018-edad;[m
+[32m+[m[32mfechaI= edad-fechaA;[m
+[32m+[m[32mcalculoE=2040-fechaA;[m
+[32m+[m[32medadA=2018-fechaA;[m
+[32m+[m
+[32m+[m[32malert("naci"+" "+fechaA);[m
+[32m+[m[32malert( " mi edad actual es"+" "+edadA);[m
+[32m+[m[32malert("mi edad para el 2040 sera:"+" "+calculoE);[m
+[32m+[m
+[32m+[m
+[32m+[m[32m</script>[m
+[32m+[m
+[32m+[m
+ </body>[m
+ </html>[m
